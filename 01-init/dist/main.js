@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nfunction Content() {\r\n  let dom = document.getElementById('root');\r\n  let content = document.createElement('div');\r\n  content.innerText = 'content';\r\n  dom.append(content)\r\n}\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (Content);\n\n//# sourceURL=webpack:///./src/content.js?");
+eval("__webpack_require__.r(__webpack_exports__);\nfunction Content() {\r\n  let dom = document.getElementById('root');\r\n  let content = document.createElement('div');\r\n  content.innerText = 'content-hello';\r\n  dom.append(content)\r\n}\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (Content);\n\n//# sourceURL=webpack:///./src/content.js?");
 
 /***/ }),
 
