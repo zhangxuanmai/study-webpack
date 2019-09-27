@@ -1,5 +1,5 @@
-import Header from './header.js';
-import Content from './content.js';
+let h1 = document.createElement('h1');
+h1.innerText = 'hello world!';
 
-new Header();
-new Content();
+let dom = document.getElementById('root'); 
+dom.append(h1);
